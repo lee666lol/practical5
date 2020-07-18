@@ -1,0 +1,25 @@
+<resources>
+    <string name="droid_cafe">Droid Cafe</string>
+    <string name="Droid_Cafe">Your ordered a donut</string>
+    <string name="name">"Name : "</string>
+    <string name="Enter_Name">Enter your name</string>
+    <string name="address">"Address : "</string>
+    <string name="Enter_address">Enter address</string>
+    <string name="phone">Phone :</string>
+    <string name="Enter_Phone">Enter phone</string>
+    <string name="note">Email :</string>
+    <string name="Enter_email">Enter email</string>
+    <string name="choices_the_delivery_method">Choose a delivery method</string>
+    <string name="dely_today">Food delivered today</string>
+    <string name="dely_Nextday">Food delivered tomorrow</string>
+    <string name="dely_pickup">Food pick up by you</string>
+    <string-array name="labels_array">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Mobile</item>
+        <item>Other</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="date">DATE</string>
+</resources>
